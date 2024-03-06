@@ -187,8 +187,8 @@ class AddCharacterButtonWidget extends StatelessWidget {
     return ElevatedButton(
       onPressed: onPressed,
       style: ElevatedButton.styleFrom(
-        primary: Colors.grey[200],
-        onPrimary: Colors.grey[800],
+        // primary: Colors.grey[200],
+        // onPrimary: Colors.grey[800],
         elevation: 8,
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(16),
